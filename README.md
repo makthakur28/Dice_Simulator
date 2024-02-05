@@ -1,1 +1,1 @@
-# Dice_Stimulator
+# Dice_Simulator
